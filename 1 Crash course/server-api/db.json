@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "6d89d6b4-de23-44c0-8b64-0a01adc3c426",
+      "name": "Palak Zalavadiaaaa",
+      "email": "palak.z@simformsolutions.com"
+    },
+    {
+      "id": "df4c4cb3-9108-4d72-a1fc-5612e1a65b4b",
+      "name": "Test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "20855791-2584-4200-86f1-089dad07180c",
+      "name": "ds",
+      "email": "dasd"
+    }
+  ]
+}
